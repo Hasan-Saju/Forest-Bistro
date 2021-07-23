@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.min.css";
+// by adding bootstrap in app, all the children of app will get bootstrap
 
 ReactDOM.render(
   <React.StrictMode>
