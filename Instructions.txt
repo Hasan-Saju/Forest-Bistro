@@ -1,2 +1,4 @@
 npm install bootstrap reactstrap react-popper --save
-npm install dateformate --save
+npm install dateformat --save
+
+npm uninstall <package-name>
