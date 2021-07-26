@@ -38,17 +38,17 @@ class Navigation extends Component {
                   </Link>
                 </NavItem>
                 <NavItem>
-                  <Link to="/" className="nav-link">
+                  <Link to="/menu" className="nav-link">
                     Menu
                   </Link>
                 </NavItem>
                 <NavItem>
-                  <Link to="/" className="nav-link">
+                  <Link to="/about" className="nav-link">
                     About
                   </Link>
                 </NavItem>
                 <NavItem>
-                  <Link to="/" className="nav-link">
+                  <Link to="/contact" className="nav-link">
                     Contact
                   </Link>
                 </NavItem>
