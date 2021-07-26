@@ -2,3 +2,5 @@ npm install bootstrap reactstrap react-popper --save
 npm install dateformat --save
 
 npm uninstall <package-name>
+
+npm install react-router react-router-dom --save 
