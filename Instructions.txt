@@ -10,3 +10,5 @@ npm install redux react-redux --save
 npm install redux-logger --save 
 
 npm install font-awesome --save
+
+npm install redux-thunk --save 
