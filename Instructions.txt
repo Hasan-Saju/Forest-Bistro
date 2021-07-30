@@ -6,3 +6,5 @@ npm uninstall <package-name>
 npm install react-router react-router-dom --save 
 
 npm install redux react-redux --save
+
+npm install redux-logger --save 
